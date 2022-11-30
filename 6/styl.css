@@ -1,0 +1,35 @@
+html, body {
+	width:100%;
+	height:100%;
+	color: blue;
+	background: linear-gradient(to left bottom,#37383b,white)
+}
+
+div {
+	background-color: blue;
+	width:100%;
+	height: 20%;
+	color: black;
+}
+
+p {
+	letter-spacing: 10pt;
+	font-family: "Times New Roman";
+	 text-shadow: 2px 2px 2px #ff0000;
+	text-align: center;
+}
+
+p::after {
+	content: "Koniec";
+	color: pink;
+}
+
+p::before {
+	content: "Początek ";
+	color: red;
+}
+
+p::first-letter {
+	color: blue;
+	font-size: 30pt;
+}
