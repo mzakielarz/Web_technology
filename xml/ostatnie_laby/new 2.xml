@@ -1,0 +1,14 @@
+<?xml version = "1.0"?>
+<person>
+	<personal>
+		<name>
+			<firstname> </firstname>
+			<last> </last>
+		</name>
+		
+		<birthday> 03.12.1999</birthday>
+		<street>123 Main Street</street>
+	
+	</personal>
+	
+</person>

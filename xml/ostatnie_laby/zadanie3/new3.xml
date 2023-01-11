@@ -1,0 +1,13 @@
+<?xml version = "1.0"?>
+<?xml-stylesheet type="text/css" href="style.css" ?>
+
+<katalogi>
+	<katalog>
+		<plik>folder1</plik>
+		<data_utworzenia>15.12.1233</data_utworzenia>
+		<data_modyfikacji>21.02.2123</data_modyfikacji>
+		<rozmiar>007 MB</rozmiar>
+		<format>pdf</format>
+	
+	</katalog>
+</katalogi>

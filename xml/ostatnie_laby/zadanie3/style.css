@@ -1,0 +1,25 @@
+katalogi {
+	display: block;
+	background-color: gray;
+}
+
+plik {
+	display: block;
+	background-color: blue;
+}
+data_utworzenia {
+	display: block;
+	background-color: white;
+}
+data_modyfikacji {
+	display: block;
+	background-color: purple;
+}
+rozmiar {
+	display: block;
+	background-color: green;
+}
+format {
+	display: block;
+	background-color: orange;
+}
